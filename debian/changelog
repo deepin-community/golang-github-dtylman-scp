@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-dtylman-scp (0.0~git20181017.f3000a3-3) unstable; urgency=medium
 
-  * Initial release
+  * Sourceful reupload, no changes
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 21 Nov 2021 08:02:59 -0500
+
+golang-github-dtylman-scp (0.0~git20181017.f3000a3-2) unstable; urgency=medium
+
+  * Remove accidental additional of "example" test binary
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sat, 06 Nov 2021 10:54:58 -0400
+
+golang-github-dtylman-scp (0.0~git20181017.f3000a3-1) unstable; urgency=medium
+
+  * Initial release (Closes: #995956)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Fri, 08 Oct 2021 16:50:30 -0400
